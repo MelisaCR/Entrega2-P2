@@ -1,0 +1,111 @@
+body{
+	font-family: cursive;
+	background: url(fondo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#banner{
+	width: 80%;
+}
+
+.form1{
+	background: rgba(183, 242, 179,0.5);
+	width: 37%;
+	height: 60%;
+	position: absolute;
+	border:4px solid #DEAA6C;
+	margin-left: 10%;
+	margin-top: 2%;
+}
+
+.form2{
+	background: rgba(242, 213, 179,0.5);
+	width: 37%;
+	height: 60%;
+	position: absolute;
+	margin-left: 51%;
+	margin-top: 2%;
+	border:4px solid #DEAA6C;
+}
+
+p{
+	color: #D23833;
+}
+
+#dato1{
+	color: ;
+	font-family:times new roman;
+	font-size: 110%;
+	border: 0px;
+	border-bottom: 2px solid #DEAA6C;
+	background-color: transparent;
+	text-align: center;
+}
+
+#dato2{
+	color: ;
+	font-family:times new roman;
+	font-size: 110%;
+	border: 0px;
+	border-bottom: 2px solid #DEAA6C;
+	background-color: transparent;
+	text-align: center;
+}
+
+#mensaje1{
+	
+	color: ;
+	height: 50%;
+	font-family: arial;
+	font-size: 120%;
+	border: 0px;
+	border-left: 2px solid #DEAA6C;
+	background-color: transparent;
+	text-align: center;
+	text-shadow: 1px 1px 1px #E29124;
+}
+
+#mensaje2{
+	
+	color: ;
+	font-family: arial;
+	font-size: 120%;
+	border: 0px;
+	border-left: 2px solid #DEAA6C;
+	background-color: transparent;
+	text-align: center;
+	text-shadow: 1px 1px 1px #E29124;
+}
+
+#ingresar{
+	border-radius: 50px ;
+	border: solid #DEAA6C;
+	color: #DEAA6C;
+	font-family: cursive;
+	width: 40%;
+	font-size: 110%;
+	
+}
+
+#ingresar:hover{
+	font-size: 120%;
+	color: #516E4A;
+	border: solid #516E4A;
+}
+
+#buscar{
+	border-radius: 50px ;
+	border: solid #7AAF6C;
+	color: #516E4A;
+	font-family: cursive;
+	width: 40%;
+	font-size: 110%;
+	
+}
+
+#buscar:hover{
+	font-size: 120%;
+	color: #DEAA6C;
+	border: solid #DEAA6C;
+}
